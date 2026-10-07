@@ -31,7 +31,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 labelText: 'Pick a current Time',
                 labelStyle: const TextStyle(
                   fontSize: 16,
-                  color: Colors.pink,
+                  color: Colors.blue,
         
                 )
               ),
@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 labelText: "Pick today's Date",
                 labelStyle: const TextStyle(
                   fontSize: 16,
-                  color: Colors.pink,
+                  color: Colors.blue,
         
                 ),
               ),
