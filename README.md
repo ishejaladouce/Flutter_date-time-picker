@@ -12,19 +12,19 @@ Home screen:
 
 Time picker:
 
-<img src="lib/screenshots/5.jpeg" alt="Time picker" width="250">
+<img src="lib/screenshots/2.jpeg" alt="Time picker" width="250">
 
 Time chosen:
 
-<img src="lib/screenshots/4.jpeg" alt="Time chosen" width="250">
+<img src="lib/screenshots/3.jpeg" alt="Time chosen" width="250">
 
 Date picker:
 
-<img src="lib/screenshots/3.jpeg" alt="Date picker" width="250">
+<img src="lib/screenshots/4.jpeg" alt="Date picker" width="250">
 
 Final UI:
 
-<img src="lib/screenshots/2.jpeg" alt="Final UI" width="250">
+<img src="lib/screenshots/5.jpeg" alt="Final UI" width="250">
 
 ## How to run
 
@@ -32,7 +32,6 @@ You need Flutter installed, plus an emulator or a connected phone.
 
 ```bash
 git clone https://github.com/ishejaladouce/Flutter_date-time-picker.git
-cd Flutter_date-time-picker/date_time_picker
 flutter pub get
 flutter run
 ```
