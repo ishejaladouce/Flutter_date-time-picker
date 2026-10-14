@@ -6,9 +6,25 @@ A simple Flutter screen with two tappable fields that open the Material date and
 
 The screens in the order you see them when using the app.
 
-| Home | Time picker | Time chosen | Date picker | Final UI |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="date_time_picker/lib/screenshots/1.jpeg" width="160"> | <img src="date_time_picker/lib/screenshots/5.jpeg" width="160"> | <img src="date_time_picker/lib/screenshots/4.jpeg" width="160"> | <img src="date_time_picker/lib/screenshots/3.jpeg" width="160"> | <img src="date_time_picker/lib/screenshots/2.jpeg" width="160"> |
+Home screen:
+
+<img src="lib/screenshots/1.jpeg" alt="Home screen" width="250">
+
+Time picker:
+
+<img src="lib/screenshots/5.jpeg" alt="Time picker" width="250">
+
+Time chosen:
+
+<img src="lib/screenshots/4.jpeg" alt="Time chosen" width="250">
+
+Date picker:
+
+<img src="lib/screenshots/3.jpeg" alt="Date picker" width="250">
+
+Final UI:
+
+<img src="lib/screenshots/2.jpeg" alt="Final UI" width="250">
 
 ## How to run
 
